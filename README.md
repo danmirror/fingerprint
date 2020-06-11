@@ -1,2 +1,6 @@
 # fingerprint repo
-### author = <a href="https://me-danuandrean.github.io" >me-danuandrean.github.io </a>
+> research fingerprint 
+
+#### author
+- <a href=https://me-danuandrean.github.io>Danu andrean</a>
+
